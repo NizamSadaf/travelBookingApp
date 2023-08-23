@@ -39,3 +39,12 @@
     color: var(--heading-color);
     font-size: 1.1rem;
 }
+@media only screen and (max-width:992px) {
+    .newsletter {
+        width: 100%;
+    }
+
+    img {
+        width: 100%;
+    }
+}
